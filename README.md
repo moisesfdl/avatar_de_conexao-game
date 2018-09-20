@@ -1,0 +1,2 @@
+# avatar_de_conexao-game
+a ideia e , alocar todo arquivo do game , numa plataforma on line , e gerar o avatar de conexão , gravando a resoluçao do desenvolvimento do cliente , en cada acesso , gerando a transição de referencia do jogo ,. mantendo seu desenvolvimento de cada jogador , eu , como um jogador , vemos um coparativo grande de cada jogo ,. isso diminuiria o transito de informação de rede ,. O AVATAR DE CONEXÃO ,. por assim o cliente so compra o código do produto 
